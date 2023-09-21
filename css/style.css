@@ -6,12 +6,12 @@
  * Version: 2.2.5
  * Initial Release: November 22, 2022
  * Last Update: April 20, 2023
- * 
+ *
  */
-/* 
+/*
 
 ====================
-  Table of Contents 
+  Table of Contents
 ====================
 
 1. Variables
@@ -22,8 +22,8 @@
 6. Intro Section
 7. Facts Section
 8. About Section
-9. Skill Section 
-10. Portfolio Section 
+9. Skill Section
+10. Portfolio Section
 11. Service Section
 12. Resume Section
 13. Testimonial Section
@@ -36,11 +36,11 @@
 
  */
 /***********************************************************
-  1. Variables 
+  1. Variables
 ************************************************************/
 /* brand colors */
 /***********************************************************
-  2. Common Styles 
+  2. Common Styles
 ************************************************************/
 .section-title {
   width: 50%;
@@ -151,7 +151,7 @@
   width: 108px;
 }
 /***********************************************************
-  3. General Style 
+  3. General Style
 ************************************************************/
 body {
   font-family: 'Open Sans', sans-serif;
@@ -304,7 +304,7 @@ h6 {
 }
 .hero-area .hero-head {
   color: #fff;
-  font-size: 120px;
+  font-size: 100px;
 }
 .hero-area .hero-head small {
   font-size: 24px;
@@ -360,7 +360,7 @@ h6 {
   background: #2f2f2f;
 }
 /***********************************************************
-  6. Intro Section  
+  6. Intro Section
 ************************************************************/
 .intro-section {
   position: relative;
@@ -399,7 +399,7 @@ h6 {
   transition: 0.3s;
 }
 /***********************************************************
-  7. Facts Section 
+  7. Facts Section
 ************************************************************/
 .facts-section .icon-box {
   font-size: 60px;
@@ -423,7 +423,7 @@ h6 {
   left: 5px;
 }
 /***********************************************************
-  8. About Section 
+  8. About Section
 ************************************************************/
 .about-section {
   padding-bottom: 80px;
@@ -1220,7 +1220,7 @@ h6 {
   border: none;
 }
 /***********************************************************
-  15. Partner Section  
+  15. Partner Section
 ************************************************************/
 .partner-section {
   padding-top: 90px;
@@ -1340,7 +1340,7 @@ h6 {
   color: #fff;
 }
 /***********************************************************
-  17. Site Footer 
+  17. Site Footer
 ************************************************************/
 .site-footer {
   background-color: #212228;
@@ -1525,7 +1525,7 @@ body #magicPointer.is-hover {
   background: #b6b9d9 !important;
 }
 /***********************************************************
-  19. Media Queries 
+  19. Media Queries
 ************************************************************/
 /* max-width: 1599px and min-width:992px */
 @media (max-width: 1599px) and (min-width: 992px) {
