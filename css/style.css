@@ -818,17 +818,17 @@ h6 {
   transition: 0.4s;
 }
 .service-section .content-wrapper:hover {
-  background: #222;
+  background: #9dd9d2;
 }
 .service-section .content-wrapper:hover .icon-box {
   background: #fff;
   color: #615978;
 }
 .service-section .content-wrapper:hover h3 {
-  color: #fff;
+  color: #ff8811;
 }
 .service-section .content-wrapper:hover p {
-  color: #b0aac0;
+  color: white;
 }
 /* Dark Mode Styling */
 .dark-mode .service-section p {
@@ -938,7 +938,7 @@ h6 {
   margin-top: 36px;
   border-radius: 10px;
   text-align: center;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #ff8811;
 }
 .testimonial-section .item-wrapper:after {
   content: '';
@@ -970,7 +970,7 @@ h6 {
   width: 72px;
   height: 72px;
   border-radius: 50%;
-  background: #e8e9f3;
+  background: #9dd9d2;
   position: absolute;
   top: -36px;
   left: 50%;
@@ -1381,6 +1381,17 @@ h6 {
   background: transparent;
   color: #fff;
 }
+#message-btn {
+  background-color: #ff8811;
+  border: none;
+}
+#message-btn:hover {
+  background-color: white;
+  border: 1px solid #ff8811;
+}
+#contact-icon {
+  background-color: #9dd9d2;
+}
 /***********************************************************
   17. Site Footer
 ************************************************************/
@@ -1503,7 +1514,7 @@ h6 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #222;
+  background: #9dd9d2;
   z-index: 10000;
 }
 .dots .dot {
