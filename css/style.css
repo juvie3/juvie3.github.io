@@ -785,18 +785,20 @@ h6 {
   margin-bottom: 30px;
   width: 96px;
   height: 96px;
-  background: #e8e9f3;
+  background: #ff8811;
   border-radius: 50%;
   position: relative;
 }
 .service-section .icon-box i {
   position: absolute;
+  color: white;
+  font-size: 50px;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
 }
 .service-section .content-wrapper {
-  border: 1px solid #e0e0e0;
+  border: 1px solid #9dd9d2;
   padding: 60px 48px;
   text-align: center;
   border-radius: 10px;
@@ -834,6 +836,14 @@ h6 {
 .dark-mode .service-section .icon-box {
   background: #33353e;
   color: #e8e9f3;
+}
+#redux {
+  color: black;
+  margin-top: 23px;
+}
+#websocket {
+  height: 50px;
+  margin-top: 23px;
 }
 /***********************************************************
   12. Resume Section
