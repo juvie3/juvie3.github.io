@@ -234,6 +234,7 @@ h6 {
 .site-header .navbar.fixed-top {
   padding-top: 12px;
   padding-bottom: 12px;
+  /* background-color: #9dd9d2; */
 }
 .site-header .nav-item .nav-link {
   padding-left: 1.2rem;
