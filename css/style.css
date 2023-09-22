@@ -287,6 +287,19 @@ h6 {
 #nav-color:hover {
   color: #ff8811;
 }
+#jcb {
+  height: 40px;
+  width: auto;
+  aspect-ratio: 1/1;
+  background-color: white;
+}
+#jcb-text>a {
+  text-transform: none;
+
+}
+#jcb-text>a:hover {
+  color: #ff8811;
+}
 /***********************************************************
   5. Hero Area
 ************************************************************/
